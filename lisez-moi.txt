@@ -1,0 +1,11 @@
+WONDER APARTMENT — SITE VITRINE
+
+Ce dossier contient le site complet, avec le logo et les photos intégrés dans la page HTML.
+
+Publication sur Netlify depuis un téléphone :
+1. Décompressez le fichier ZIP dans l'application Fichiers.
+2. Sur Netlify, choisissez « parcourir les fichiers à télécharger ».
+3. Sélectionnez le dossier Wonder_Apartment_Netlify décompressé (ou importez son contenu si Netlify le demande).
+4. Attendez la fin du déploiement, puis ouvrez le lien fourni par Netlify.
+
+La page d'accueil du site est index.html.
